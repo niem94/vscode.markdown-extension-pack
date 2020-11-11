@@ -1,5 +1,6 @@
 {
     "name": "markdown-extension-pack",
+    "publisher": "niem94",
     "displayName": "Markdown Extension Pack",
     "description": "Extensions that are usefull when working with Markdown.",
     "version": "0.0.1",
