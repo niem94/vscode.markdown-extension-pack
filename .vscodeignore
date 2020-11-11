@@ -1,0 +1,4 @@
+.vscode/**
+.vscode-test/**
+.gitignore
+markdown-extension-pack.code-workspace

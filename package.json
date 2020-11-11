@@ -1,0 +1,21 @@
+{
+    "name": "markdown-extension-pack",
+    "displayName": "Markdown Extension Pack",
+    "description": "Extensions that are usefull when working with Markdown.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "znck.grammarly",
+        "yzhang.markdown-all-in-one",
+        "hancel.markdown-image",
+        "yzane.markdown-pdf",
+        "bierner.markdown-preview-github-styles",
+        "davidanson.vscode-markdownlint",
+        "jebbs.plantuml"
+    ]
+}
