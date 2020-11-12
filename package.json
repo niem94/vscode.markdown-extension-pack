@@ -3,7 +3,7 @@
     "publisher": "niem94",
     "displayName": "Markdown Extension Pack",
     "description": "Extensions that are usefull when working with Markdown.",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "icon": "resources/icon.png",
     "repository": {
         "type": "git",
