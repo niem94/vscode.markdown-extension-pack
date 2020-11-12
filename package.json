@@ -3,7 +3,12 @@
     "publisher": "niem94",
     "displayName": "Markdown Extension Pack",
     "description": "Extensions that are usefull when working with Markdown.",
-    "version": "0.0.1",
+    "version": "0.0.2",
+    "icon": "resources/icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/niem94/vscode.markdown-extension-pack"
+    },
     "engines": {
         "vscode": "^1.51.0"
     },
