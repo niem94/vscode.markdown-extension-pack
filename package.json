@@ -3,7 +3,7 @@
     "publisher": "niem94",
     "displayName": "Markdown Extension Pack",
     "description": "Extensions that are useful when working with Markdown.",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "icon": "resources/icon.png",
     "repository": {
         "type": "git",
@@ -25,6 +25,7 @@
         "jebbs.plantuml",
         "bierner.markdown-emoji",
         "notzaki.pandocciter",
-        "chrischinchilla.vscode-pandoc"
+        "chrischinchilla.vscode-pandoc",
+        "kzvi.pandoc-markdown-preview"
     ]
 }

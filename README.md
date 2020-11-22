@@ -1,3 +1,3 @@
 # Markdown Extensions Pack
 
-Extensions that are usefull when working with Markdown.
+Extensions that are useful when working with Markdown.
