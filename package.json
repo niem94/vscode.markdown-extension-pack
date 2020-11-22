@@ -3,7 +3,7 @@
     "publisher": "niem94",
     "displayName": "Markdown Extension Pack",
     "description": "Extensions that are usefull when working with Markdown.",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "icon": "resources/icon.png",
     "repository": {
         "type": "git",
@@ -22,6 +22,7 @@
         "yzane.markdown-pdf",
         "bierner.markdown-preview-github-styles",
         "davidanson.vscode-markdownlint",
-        "jebbs.plantuml"
+        "jebbs.plantuml",
+        "bierner.markdown-emoji"
     ]
 }
