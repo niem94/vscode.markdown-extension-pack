@@ -1,5 +1,10 @@
 # Change Log
 
+## [0.0.9] - 2020-11-23
+
+- Removed pandoc preview, it did not work very well.
+- Added Markdown Link Updater, an extension that can update relative links, when files are moved or renamed.
+
 ## [0.0.8] - 2020-11-22
 
 - Removed a pandoc extension, as VSCode tasks can easily do the same.
