@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.0.0] - 2021-02-18
+
+- Added Markdown Link Updater, an extension that can update relative links, when files are moved or renamed.
+- Migrated Pandoc Extensions to Pandoc Exstension Pack
+
 ## [0.0.9] - 2020-11-23
 
 - Removed pandoc preview, it did not work very well.
