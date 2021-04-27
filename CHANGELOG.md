@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.0.1] - 2021-04-28
+
+- Added WYSIWYG Editor
+
 ## [1.0.0] - 2021-02-18
 
 - Added Markdown Link Updater, an extension that can update relative links, when files are moved or renamed.

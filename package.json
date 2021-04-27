@@ -3,7 +3,7 @@
     "publisher": "niem94",
     "displayName": "Markdown Extension Pack",
     "description": "Extensions that are useful when working with Markdown.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "icon": "resources/icon.png",
     "repository": {
         "type": "git",
@@ -16,6 +16,7 @@
         "Extension Packs"
     ],
     "extensionPack": [
+        "zaaack.markdown-editor",
         "znck.grammarly",
         "yzhang.markdown-all-in-one",
         "hancel.markdown-image",
