@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.0.2] - 2021-05-23
+
+- Added word count and character count
+
 ## [1.0.1] - 2021-04-28
 
 - Added WYSIWYG Editor

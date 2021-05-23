@@ -3,7 +3,7 @@
     "publisher": "niem94",
     "displayName": "Markdown Extension Pack",
     "description": "Extensions that are useful when working with Markdown.",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "icon": "resources/icon.png",
     "repository": {
         "type": "git",
@@ -25,6 +25,8 @@
         "davidanson.vscode-markdownlint",
         "jebbs.plantuml",
         "bierner.markdown-emoji",
-        "mathiassoeholm.markdown-link-updater"
+        "mathiassoeholm.markdown-link-updater",
+        "ms-vscode.wordcount",
+        "stevensona.character-count"
     ]
 }
